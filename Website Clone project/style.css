@@ -1,0 +1,20 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+nav, .nav-links, .nav-links1{
+    display: flex;
+}
+
+.nav-links, .nav-links1{
+    gap: 3vh;
+}
+.nav-links1{
+    justify-content:;
+}

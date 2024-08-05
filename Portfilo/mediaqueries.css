@@ -1,0 +1,10 @@
+/*first part tells me that if screen size is over 1200 then display desktop nav, if less then 1200px display hamburger*/
+
+@media screen and (max-width: 1200px){
+    #desktop-nav{
+        display: none;
+    }
+    .hamburger-nav{
+        display: flex;
+    }
+}
